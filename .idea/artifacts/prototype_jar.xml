@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/prototype_jar</output-path>
     <root id="archive" name="prototype.jar">
       <element id="module-output" name="Ekrut_System" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/Server/src/Application/server/mysql-connector-java-8.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/server/src/Application/server/mysql-connector-java-8.0.13.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-11.0.2/lib/src.zip" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-11.0.2/lib/javafx-swt.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-11.0.2/lib/javafx.web.jar" path-in-jar="/" />

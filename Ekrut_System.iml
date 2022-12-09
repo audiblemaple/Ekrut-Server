@@ -3,7 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/Server/src/Application/Common" />
+      <sourceFolder url="file://$MODULE_DIR$/Common" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/server/src/Application/Common" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -16,6 +17,6 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="library" name="javafx-swt" level="project" />
   </component>
 </module>
