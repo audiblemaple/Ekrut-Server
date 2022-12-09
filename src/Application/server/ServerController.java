@@ -64,7 +64,7 @@ public class ServerController extends AbstractServer {
         switch (clientMessage.getTask()){
             case LOGIN_REQUEST:
                 if(sqlController.checkUserExists((Subscriber) clientMessage.getData())){
-                    Message reply = new Message(null, MessageFromServer.UPDATE_SUCCESSFUL); // TODO: change here!!!!!!!!!
+                    Message reply = new Message(null, MessageFromServer.UPDATE_SUCCESSFUL); // TODO: change all here!!!!!!!!!
                     sendMessageToClient(client, reply);
                     return;
                 }
@@ -102,9 +102,9 @@ public class ServerController extends AbstractServer {
 //                disconnectClient(client);
 //                return;
 //
-            default:
-                System.out.println("Unknown command.");
-        }
+//            default:
+//                System.out.println("Unknown command.");
+//        }
     }
     private void sendMessageToClient(ConnectionToClient client , String message){
         try{
