@@ -1,5 +1,6 @@
 package Application.server;
 
+import Application.Common.Subscriber;
 import Data.UserData.User;
 
 import java.sql.*;
@@ -87,7 +88,7 @@ public class MysqlController {
 		return false;
 	}
 
-	public boolean checkUserExists(User clientMessage){
+	public boolean checkUserExists(Subscriber clientMessage){
 		PreparedStatement stmt;
 		ResultSet res;
 		String query = "SELECT * FROM " + this.dataBasename +".subscriber WHERE (id) = (?)";
