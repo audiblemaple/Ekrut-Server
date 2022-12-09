@@ -2,9 +2,9 @@
 // "Object Oriented Software Engineering" and is issued under the open-source
 // license found at www.lloseng.com 
 package Application.client;
-import java.io.*;
 
-import Application.Common.ChatIF;
+
+import java.io.IOException;
 
 /**
  * This class constructs the UI for a chat client.  It implements the

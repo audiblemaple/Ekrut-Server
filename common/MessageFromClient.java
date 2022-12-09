@@ -1,5 +1,3 @@
-package Application.Common;
-
 import java.io.Serializable;
 
 public enum MessageFromClient implements Serializable {

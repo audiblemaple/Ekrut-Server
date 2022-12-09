@@ -1,5 +1,3 @@
-package Application.Common;
-
 public class Subscriber {
 
 	// CLASS VARIABLES ***********************************************
