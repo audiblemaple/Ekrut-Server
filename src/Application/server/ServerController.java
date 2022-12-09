@@ -1,7 +1,8 @@
 package Application.server;
 
-import Common.Message;
-import Common.MessageFromServer;
+
+import Application.Common.Message;
+import Application.Common.MessageFromServer;
 import Data.UserData.User;
 import OCSF.AbstractServer;
 import OCSF.ConnectionToClient;
@@ -10,7 +11,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 public class ServerController extends AbstractServer {
-  //Class fields *************************************************
+  //Class fields ****************************************************
   public ServerUIController serverUI;
   private MysqlController sqlController;
 
@@ -100,8 +101,8 @@ public class ServerController extends AbstractServer {
 //                disconnectClient(client);
 //                return;
 //
-//            default:
-//                System.out.println("Unknown command.");
+            default:
+                System.out.println("Unknown command.");
         }
     }
     private void sendMessageToClient(ConnectionToClient client , String message){
