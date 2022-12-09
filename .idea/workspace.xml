@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="750ffbc8-6063-47f2-b2d4-355712ba83a7" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/prototype_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ekrut_System.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/client/client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Application/client/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Application/client/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/ChatIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/ChatIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/MessageFromClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/MessageFromClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/MessageFromServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/MessageFromServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/Subscriber.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/Subscriber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/Application/client/ChatClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/Application/client/ClientController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/Application/client/ClientUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/common.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/data/UserData/Subscriber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/gui/ClientConnectorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/gui/SubscriberEditController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/gui/SubscriberSaveController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/ocsf/AbstractClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/ocsf/AdaptableClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/ocsf/ObservableClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Common/Application/Common/ChatIF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Common/Application/Common/Common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Common/Application/Common/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Common/Application/Common/MessageFromClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Common/Application/Common/MessageFromServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Common/Application/Common/Subscriber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/Application/server/MysqlController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/Application/server/ServerController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/Application/server/ServerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/Application/server/ServerUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/Data/UserConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/Data/UserData/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/OCSF/AbstractServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/OCSF/AbstractServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/OCSF/AdaptableServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/OCSF/ConnectionToClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/OCSF/ObservableOriginatorServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/OCSF/ObservableServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/OCSF/OriginatorMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/Presentation/serverGUI/ServerUIController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Igg3gnTdeiSkgynToo0NcsJ7VL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "liberica-11",
+    "last_opened_file_path": "D:/Methodologies-Server222222222/common",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.21135029",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Methodologies-Server222222222\common" />
+      <recent name="D:\Methodologies-Server222222222\Common" />
+      <recent name="D:\Methodologies-Server222222222\Client\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Methodologies-Server222222222\common\src" />
+      <recent name="D:\Methodologies-Server222222222\Common\src" />
+      <recent name="D:\Methodologies-Server222222222\Ekrut_Server\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ServerUI" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Application.server.ServerUI" />
+      <module name="server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="750ffbc8-6063-47f2-b2d4-355712ba83a7" name="Changes" comment="" />
+      <created>1670608443887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670608443887</updated>
+      <workItem from="1670608445547" duration="1555000" />
+      <workItem from="1670610016263" duration="96000" />
+      <workItem from="1670610123288" duration="1312000" />
+      <workItem from="1670611458812" duration="1789000" />
+      <workItem from="1670613501774" duration="82000" />
+      <workItem from="1670613587307" duration="121000" />
+      <workItem from="1670613712152" duration="11000" />
+      <workItem from="1670613726429" duration="460000" />
+      <workItem from="1670614298915" duration="304000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1670608595658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670608595658</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1670608618932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670608618932</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <created>1670608662091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670608662091</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".">
+      <created>1670608792318</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670608792318</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".">
+      <created>1670608797813</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670608797813</updated>
+    </task>
+    <task id="LOCAL-00006" summary=".">
+      <created>1670609570837</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670609570837</updated>
+    </task>
+    <task id="LOCAL-00007" summary=".">
+      <created>1670611014671</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670611014671</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+</project>
